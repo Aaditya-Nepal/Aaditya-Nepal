@@ -1,7 +1,7 @@
-## 👋 Yo, I’m Aaditya Nepal
+## 👋 Hey, I’m Aaditya Nepal
 
 🧠 I build with AI, computer vision, and game engines.  
-🎮 Most of my time goes into making smart systems punch back or scream in the dark — depends if I’m coding a boxer or a ghost.
+🎮 Most of my time goes into making smart systems punch back or scream in the dark — depends if I’m coder a boxer or a ghost.
 
 ---
 
